@@ -1,0 +1,2 @@
+class CodeException(Exception):
+    pass
